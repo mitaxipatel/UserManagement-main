@@ -1,0 +1,1080 @@
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (/Users/imac/Desktop/projects/stellar-stock-backend/src/dao/auth.dao.js:8:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Object.loginUserWithEmailAndPassword (/Users/imac/Desktop/projects/stellar-stock-backend/src/manager/auth.manager.js:6:18)
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/src/controllers/auth.controllers.js:12:18
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (/Users/imac/Desktop/projects/stellar-stock-backend/src/dao/auth.dao.js:8:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Object.loginUserWithEmailAndPassword (/Users/imac/Desktop/projects/stellar-stock-backend/src/manager/auth.manager.js:6:18)
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/src/controllers/auth.controllers.js:12:18
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (/Users/imac/Desktop/projects/stellar-stock-backend/src/dao/auth.dao.js:8:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Object.loginUserWithEmailAndPassword (/Users/imac/Desktop/projects/stellar-stock-backend/src/manager/auth.manager.js:6:18)
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/src/controllers/auth.controllers.js:12:18
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (/Users/imac/Desktop/projects/stellar-stock-backend/src/dao/auth.dao.js:8:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Object.loginUserWithEmailAndPassword (/Users/imac/Desktop/projects/stellar-stock-backend/src/manager/auth.manager.js:6:18)
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/src/controllers/auth.controllers.js:12:18
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (/Users/imac/Desktop/projects/stellar-stock-backend/src/dao/auth.dao.js:8:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Object.loginUserWithEmailAndPassword (/Users/imac/Desktop/projects/stellar-stock-backend/src/manager/auth.manager.js:6:18)
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/src/controllers/auth.controllers.js:12:18
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (/Users/imac/Desktop/projects/stellar-stock-backend/src/dao/auth.dao.js:8:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Object.loginUserWithEmailAndPassword (/Users/imac/Desktop/projects/stellar-stock-backend/src/manager/auth.manager.js:6:18)
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/src/controllers/auth.controllers.js:12:18
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Page Not found
+    at /Users/imac/Desktop/projects/stellar-stock-backend/app.js:109:10
+    at Layer.handle [as handle_request] (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express/lib/router/index.js:280:10)
+    at /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:659:7
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/node_modules/express-rate-limit/dist/index.cjs:576:5
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (/Users/imac/Desktop/projects/stellar-stock-backend/src/dao/auth.dao.js:8:15)
+    at async Object.loginUserWithEmailAndPassword (/Users/imac/Desktop/projects/stellar-stock-backend/src/manager/auth.manager.js:6:18)
+    at async /Users/imac/Desktop/projects/stellar-stock-backend/src/controllers/auth.controllers.js:12:18
+Error: Error: "fullName" is required
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\validate.js:15:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:47:12)
+Error: Error: "lastName" is not allowed
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\validate.js:15:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:47:12)
+Error: Error: ValidationError: expires: Cast to date failed for value "Invalid Date" (type Date) at path "expires"
+    at Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\manager\user.manager.js:36:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: Error: ValidationError: expires: Cast to date failed for value "Invalid Date" (type Date) at path "expires"
+    at Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\manager\user.manager.js:36:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: Error: ValidationError: expires: Cast to date failed for value "Invalid Date" (type Date) at path "expires"
+    at Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\manager\user.manager.js:37:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: Error: ValidationError: expires: Cast to date failed for value "Invalid Date" (type Date) at path "expires"
+    at Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\manager\user.manager.js:37:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: Error: ValidationError: expires: Cast to date failed for value "Invalid Date" (type Date) at path "expires"
+    at Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\manager\user.manager.js:37:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: Error: ValidationError: expires: Cast to date failed for value "Invalid Date" (type Date) at path "expires"
+    at Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\manager\user.manager.js:37:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: Error: ValidationError: expires: Cast to date failed for value "Invalid Date" (type Date) at path "expires"
+    at Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\manager\user.manager.js:37:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: Error: ReferenceError: geoIpLite is not defined
+    at Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\manager\user.manager.js:37:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: Error: ReferenceError: ip is not defined
+    at Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\manager\user.manager.js:26:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: Error: ReferenceError: address is not defined
+    at Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\manager\user.manager.js:25:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: Error: MongoWriteConcernError: No write concern mode named 'majority/vivek' found in replica set configuration
+    at Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\manager\user.manager.js:25:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: Error: ReferenceError: address is not defined
+    at Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\manager\user.manager.js:25:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: ReferenceError: activityLogService is not defined
+    at Object.createUser (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:11:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:7:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: MongoServerError: E11000 duplicate key error collection: vivek.users index: mobile_1 dup key: { mobile: "1234567891" }
+    at InsertOneOperation.execute (C:\Users\DELL\Desktop\Newfolder\node_modules\mongodb\lib\operations\insert.js:48:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async executeOperationAsync (C:\Users\DELL\Desktop\Newfolder\node_modules\mongodb\lib\operations\execute_operation.js:106:16)
+Error: ReferenceError: activityLogService is not defined
+    at Object.createUser (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:11:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:8:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: TypeError: Cannot read properties of undefined (reading 'createActivityLog')
+    at Object.createUser (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:12:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: Error: Page Not found
+    at C:\Users\DELL\Desktop\Newfolder\app.js:90:8
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:695:7
+    at async C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:611:5
+Error: Error: Page Not found
+    at C:\Users\DELL\Desktop\Newfolder\app.js:90:8
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:695:7
+    at async C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:611:5
+Error: Error: "ip" is required
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\validate.js:15:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:47:12)
+Error: Error: Page Not found
+    at C:\Users\DELL\Desktop\Newfolder\app.js:90:8
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:695:7
+    at async C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:611:5
+Error: Error: Page Not found
+    at C:\Users\DELL\Desktop\Newfolder\app.js:90:8
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:695:7
+    at async C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:611:5
+Error: Error: Page Not found
+    at C:\Users\DELL\Desktop\Newfolder\app.js:90:8
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:695:7
+    at async C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:611:5
+Error: Error: Page Not found
+    at C:\Users\DELL\Desktop\Newfolder\app.js:90:8
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:695:7
+    at async C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:611:5
+Error: Error: Page Not found
+    at C:\Users\DELL\Desktop\Newfolder\app.js:90:8
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:695:7
+    at async C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:611:5
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:8:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\Newfolder\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:7:18
+Error: Error: Page Not found
+    at C:\Users\DELL\Desktop\Newfolder\app.js:90:8
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:695:7
+    at async C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:611:5
+Error: Error: Page Not found
+    at C:\Users\DELL\Desktop\Newfolder\app.js:90:8
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:695:7
+    at async C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:611:5
+Error: Error: Please authenticate
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\auth.js:7:23
+    at allFailed (C:\Users\DELL\Desktop\Newfolder\node_modules\passport\lib\middleware\authenticate.js:110:18)
+    at attempt (C:\Users\DELL\Desktop\Newfolder\node_modules\passport\lib\middleware\authenticate.js:183:28)
+    at strategy.fail (C:\Users\DELL\Desktop\Newfolder\node_modules\passport\lib\middleware\authenticate.js:314:9)
+    at verified (C:\Users\DELL\Desktop\Newfolder\node_modules\passport-jwt\lib\strategy.js:113:41)
+    at JwtStrategy.jwtVerify [as _verify] (C:\Users\DELL\Desktop\Newfolder\src\config\passport.js:14:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: Error: Please authenticate
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\auth.js:7:23
+    at allFailed (C:\Users\DELL\Desktop\Newfolder\node_modules\passport\lib\middleware\authenticate.js:110:18)
+    at attempt (C:\Users\DELL\Desktop\Newfolder\node_modules\passport\lib\middleware\authenticate.js:183:28)
+    at strategy.fail (C:\Users\DELL\Desktop\Newfolder\node_modules\passport\lib\middleware\authenticate.js:314:9)
+    at verified (C:\Users\DELL\Desktop\Newfolder\node_modules\passport-jwt\lib\strategy.js:113:41)
+    at JwtStrategy.jwtVerify [as _verify] (C:\Users\DELL\Desktop\Newfolder\src\config\passport.js:14:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: Error: "fullName" is required
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\validate.js:15:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\auth.js:17:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: Error: "typeOfAccount" is not allowed
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\validate.js:15:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\auth.js:17:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: Error: "userRole" is not allowed
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\validate.js:15:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\auth.js:17:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: Error: "confirmPassword" is not allowed
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\validate.js:15:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\auth.js:17:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: SyntaxError: Unexpected token } in JSON at position 118
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\DELL\Desktop\Newfolder\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\DELL\Desktop\Newfolder\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\DELL\Desktop\Newfolder\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\DELL\Desktop\Newfolder\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:517:28)
+    at endReadableNT (node:internal/streams/readable:1400:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+Error: Error: Page Not found
+    at C:\Users\DELL\Desktop\Newfolder\app.js:90:8
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:695:7
+    at async C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:611:5
+Error: Error: Page Not found
+    at C:\Users\DELL\Desktop\Newfolder\app.js:90:8
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:695:7
+    at async C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:611:5
+Error: Error: "fullName" is required
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\validate.js:15:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\auth.js:17:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: Error: "mobile" is required
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\validate.js:15:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\auth.js:17:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: Error: "mobile" must be a string
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\validate.js:15:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\auth.js:17:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: Error: User not found
+    at Object.updateUserById (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:27:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\user.controllers.js:17:18
+Error: Error: User not found
+    at Object.updateUserById (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:27:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\user.controllers.js:17:18
+Error: Error: User not found
+    at Object.updateUserById (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:27:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\user.controllers.js:17:18
+Error: Error: User not found
+    at Object.updateUserById (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:27:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\user.controllers.js:18:18
+Error: Error: User not found
+    at Object.updateUserById (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:27:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\user.controllers.js:18:18
+Error: Error: Page Not found
+    at C:\Users\DELL\Desktop\Newfolder\app.js:90:8
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:695:7
+    at async C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:611:5
+Error: TypeError: userService.list is not a function
+    at C:\Users\DELL\Desktop\Newfolder\src\controllers\user.controllers.js:12:36
+    at C:\Users\DELL\Desktop\Newfolder\src\utils\catchAsync.js:2:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\auth.js:17:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: ReferenceError: req is not defined
+    at Object.list (C:\Users\DELL\Desktop\Newfolder\src\service\activityLog.service.js:10:18)
+    at C:\Users\DELL\Desktop\Newfolder\src\controllers\activityLog.controller.js:7:43
+    at C:\Users\DELL\Desktop\Newfolder\src\utils\catchAsync.js:2:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\auth.js:17:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: TypeError: ActivityLog.findAndCount is not a function
+    at Object.list (C:\Users\DELL\Desktop\Newfolder\src\service\activityLog.service.js:13:52)
+    at C:\Users\DELL\Desktop\Newfolder\src\controllers\activityLog.controller.js:7:43
+    at C:\Users\DELL\Desktop\Newfolder\src\utils\catchAsync.js:2:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\auth.js:17:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: TypeError: (intermediate value) is not iterable
+    at Object.list (C:\Users\DELL\Desktop\Newfolder\src\service\activityLog.service.js:13:34)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\activityLog.controller.js:7:18
+Error: ReferenceError: count is not defined
+    at Object.list (C:\Users\DELL\Desktop\Newfolder\src\service\activityLog.service.js:14:51)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\activityLog.controller.js:7:18
+Error: TypeError: ActivityLog.count is not a function
+    at Object.list (C:\Users\DELL\Desktop\Newfolder\src\service\activityLog.service.js:14:69)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\activityLog.controller.js:7:18
+Error: Error: Page Not found
+    at C:\Users\DELL\Desktop\Newfolder\app.js:90:8
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:695:7
+    at async C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:611:5
+Error: TypeError: User.deleteUserById is not a function
+    at Object.deleteUserById (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:47:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\user.controllers.js:22:18
+Error: TypeError: User.deleteById is not a function
+    at Object.deleteUserById (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:47:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\user.controllers.js:22:18
+Error: TypeError: User.removeById is not a function
+    at Object.deleteUserById (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:47:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\user.controllers.js:22:18
+Error: Error: User not found
+    at Object.updateUserById (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:31:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\user.controllers.js:17:18
+Error: ReferenceError: query is not defined
+    at Object.list (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:17:18)
+    at C:\Users\DELL\Desktop\Newfolder\src\controllers\user.controllers.js:12:36
+    at C:\Users\DELL\Desktop\Newfolder\src\utils\catchAsync.js:2:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\auth.js:17:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: ReferenceError: ActivityLog is not defined
+    at Object.list (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:20:97)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\user.controllers.js:12:18
+Error: Error: Page Not found
+    at C:\Users\DELL\Desktop\Newfolder\app.js:90:8
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:695:7
+    at async C:\Users\DELL\Desktop\Newfolder\node_modules\express-rate-limit\dist\index.cjs:611:5
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (C:\Users\DELL\Desktop\Newfolder\src\service\auth.service.js:20:15)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:12:18
+Error: Error: "firstName" is not allowed
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\validate.js:15:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\auth.js:17:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: ValidationError: User validation failed: mobile: Path `mobile` is required.
+    at Document.invalidate (C:\Users\DELL\Desktop\Newfolder\node_modules\mongoose\lib\document.js:3201:32)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\mongoose\lib\document.js:2994:17
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: Error: "mobile" is not allowed to be empty
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\validate.js:15:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\Newfolder\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\DELL\Desktop\Newfolder\src\middlewares\auth.js:17:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: ValidationError: User validation failed: mobile: length of mobile number needs to be 10
+    at Document.invalidate (C:\Users\DELL\Desktop\Newfolder\node_modules\mongoose\lib\document.js:3201:32)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\mongoose\lib\document.js:2994:17
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: ValidationError: User validation failed: mobile: length of mobile number needs to be 10
+    at Document.invalidate (C:\Users\DELL\Desktop\Newfolder\node_modules\mongoose\lib\document.js:3201:32)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\mongoose\lib\document.js:2994:17
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: ValidationError: User validation failed: mobile: length of mobile number needs to be 10
+    at Document.invalidate (C:\Users\DELL\Desktop\Newfolder\node_modules\mongoose\lib\document.js:3201:32)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\mongoose\lib\document.js:2994:17
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: ValidationError: User validation failed: mobile: length of mobile number needs to be 10
+    at Document.invalidate (C:\Users\DELL\Desktop\Newfolder\node_modules\mongoose\lib\document.js:3201:32)
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\mongoose\lib\document.js:2994:17
+    at C:\Users\DELL\Desktop\Newfolder\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: ReferenceError: user is not defined
+    at Object.currentPassword (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:65:58)
+    at async Object.changePassword (C:\Users\DELL\Desktop\Newfolder\src\service\profile.service.js:5:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\profile.controller.js:13:18
+Error: ReferenceError: user is not defined
+    at Object.currentPassword (C:\Users\DELL\Desktop\Newfolder\src\service\user.service.js:65:58)
+    at async Object.changePassword (C:\Users\DELL\Desktop\Newfolder\src\service\profile.service.js:5:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\profile.controller.js:13:18
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (C:\Users\DELL\Desktop\Newfolder\src\service\auth.service.js:20:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:12:18
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (C:\Users\DELL\Desktop\Newfolder\src\service\auth.service.js:20:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:12:18
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (C:\Users\DELL\Desktop\Newfolder\src\service\auth.service.js:20:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:12:18
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (C:\Users\DELL\Desktop\Newfolder\src\service\auth.service.js:20:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:12:18
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (C:\Users\DELL\Desktop\Newfolder\src\service\auth.service.js:20:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:12:18
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (C:\Users\DELL\Desktop\Newfolder\src\service\auth.service.js:20:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:12:18
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (C:\Users\DELL\Desktop\Newfolder\src\service\auth.service.js:21:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\Newfolder\src\controllers\auth.controllers.js:12:18
+Error: Error: "userType" is required
+    at C:\Users\DELL\Desktop\UserManagement\src\middlewares\validate.js:15:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\UserManagement\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\UserManagement\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\DELL\Desktop\UserManagement\src\middlewares\auth.js:17:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: Error: "userType" is required
+    at C:\Users\DELL\Desktop\UserManagement\src\middlewares\validate.js:15:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\UserManagement\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\UserManagement\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\DELL\Desktop\UserManagement\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\UserManagement\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\DELL\Desktop\UserManagement\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\DELL\Desktop\UserManagement\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Desktop\UserManagement\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\DELL\Desktop\UserManagement\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\DELL\Desktop\UserManagement\node_modules\express\lib\router\index.js:47:12)
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:8:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\UserManagement\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\auth.controllers.js:7:18
+Error: Error: Super Admin Exists
+    at Object.createUser (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:11:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\UserManagement\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\auth.controllers.js:7:18
+Error: Error: Super Admin Exists
+    at Object.createUser (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:11:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\user.controllers.js:7:18
+Error: ValidationError: User validation failed: mobile: length of mobile number needs to be 10
+    at Document.invalidate (C:\Users\DELL\Desktop\UserManagement\node_modules\mongoose\lib\document.js:3201:32)
+    at C:\Users\DELL\Desktop\UserManagement\node_modules\mongoose\lib\document.js:2994:17
+    at C:\Users\DELL\Desktop\UserManagement\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: Error: Email already taken
+    at Object.updateUserById (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:41:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\user.controllers.js:17:18
+Error: ValidationError: User validation failed: mobile: length of mobile number needs to be 10
+    at Document.invalidate (C:\Users\DELL\Desktop\UserManagement\node_modules\mongoose\lib\document.js:3201:32)
+    at C:\Users\DELL\Desktop\UserManagement\node_modules\mongoose\lib\document.js:2994:17
+    at C:\Users\DELL\Desktop\UserManagement\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: Error: "userType" is not allowed
+    at C:\Users\DELL\Desktop\UserManagement\src\middlewares\validate.js:15:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\UserManagement\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\UserManagement\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\DELL\Desktop\UserManagement\src\middlewares\auth.js:17:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: ObjectParameterError: Parameter "filter" to find() must be an object, got "false" (type boolean)
+    at Query.find (C:\Users\DELL\Desktop\UserManagement\node_modules\mongoose\lib\query.js:2316:16)
+    at Function.find (C:\Users\DELL\Desktop\UserManagement\node_modules\mongoose\lib\model.js:2215:13)
+    at Object.list (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:23:34)
+    at C:\Users\DELL\Desktop\UserManagement\src\controllers\user.controllers.js:12:36
+    at C:\Users\DELL\Desktop\UserManagement\src\utils\catchAsync.js:2:21
+    at Layer.handle [as handle_request] (C:\Users\DELL\Desktop\UserManagement\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\DELL\Desktop\UserManagement\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\DELL\Desktop\UserManagement\src\middlewares\auth.js:17:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (C:\Users\DELL\Desktop\UserManagement\src\service\auth.service.js:20:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\auth.controllers.js:12:18
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:8:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\UserManagement\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\auth.controllers.js:7:18
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:8:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\UserManagement\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\auth.controllers.js:7:18
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:8:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\UserManagement\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\auth.controllers.js:7:18
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:8:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\UserManagement\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\auth.controllers.js:7:18
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:8:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\UserManagement\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\auth.controllers.js:7:18
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:9:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\UserManagement\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\auth.controllers.js:7:18
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:9:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\UserManagement\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\auth.controllers.js:7:18
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:9:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\UserManagement\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\auth.controllers.js:7:18
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:9:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\UserManagement\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\auth.controllers.js:7:18
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:9:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\UserManagement\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\auth.controllers.js:7:18
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:9:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\UserManagement\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\auth.controllers.js:7:18
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:9:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\UserManagement\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\auth.controllers.js:7:18
+Error: Error: Email already taken
+    at Object.createUser (C:\Users\DELL\Desktop\UserManagement\src\service\user.service.js:9:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (C:\Users\DELL\Desktop\UserManagement\src\service\auth.service.js:9:18)
+    at async C:\Users\DELL\Desktop\UserManagement\src\controllers\auth.controllers.js:7:18
+Error: Error: Super Admin Exists
+    at Object.createUser (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/service/user.service.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/service/auth.service.js:9:18)
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/controllers/auth.controllers.js:7:18
+Error: Error: Email already taken
+    at Object.createUser (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/service/user.service.js:9:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/service/auth.service.js:9:18)
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/controllers/auth.controllers.js:7:18
+Error: Error: Super Admin Exists
+    at Object.createUser (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/service/user.service.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/service/auth.service.js:9:18)
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/controllers/auth.controllers.js:7:18
+Error: MongoServerError: E11000 duplicate key error collection: test.users index: mobile_1 dup key: { mobile: "1234567891" }
+    at InsertOneOperation.execute (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/mongodb/lib/operations/insert.js:48:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async executeOperationAsync (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/mongodb/lib/operations/execute_operation.js:106:16)
+Error: Error: Email already taken
+    at Object.createUser (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/service/user.service.js:9:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.registerUser (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/service/auth.service.js:9:18)
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/controllers/auth.controllers.js:7:18
+Error: Error: Super Admin Exists
+    at Object.createUser (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/service/user.service.js:12:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/controllers/user.controllers.js:7:18
+Error: Error: Email already taken
+    at Object.createUser (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/service/user.service.js:9:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/controllers/user.controllers.js:7:18
+Error: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/service/auth.service.js:20:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/controllers/auth.controllers.js:12:18
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:90:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:90:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:90:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:90:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:90:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:90:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:90:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:90:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:90:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: req#logout requires a callback function
+    at req.logout.req.logOut (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/passport/lib/http/request.js:65:44)
+    at Object.logoutuser (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/service/auth.service.js:37:5)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/controllers/auth.controllers.js:17:23
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/utils/catchAsync.js:2:21
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+Error: Error: req#logout requires a callback function
+    at req.logout.req.logOut (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/passport/lib/http/request.js:65:44)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/controllers/auth.controllers.js:17:9
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/utils/catchAsync.js:2:21
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+Error: Error: req#logout requires a callback function
+    at req.logout.req.logOut (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/passport/lib/http/request.js:65:44)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/controllers/auth.controllers.js:17:9
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/src/utils/catchAsync.js:2:21
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:97:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:97:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:97:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:97:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:97:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:97:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:97:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:97:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:97:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:103:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:103:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:129:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
+Error: Error: Page Not found
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/app.js:129:8
+    at Layer.handle [as handle_request] (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:328:13)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express/lib/router/index.js:280:10)
+    at /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:695:7
+    at async /Users/mitaxipatel/Desktop/MITAXI PORTFOLIO/UserManagement-main/node_modules/express-rate-limit/dist/index.cjs:611:5
